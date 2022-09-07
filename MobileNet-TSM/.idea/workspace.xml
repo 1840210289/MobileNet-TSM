@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7679e10-34be-49a8-bf65-681dd906f7bd" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="231r1plGuhLXX0ciWYV8Qm4U7tu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../2022.8/毕业论文/huatu" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/log/TSM_HockeyFights_RGB_mobilenetv2_shift8_blockres_avg_segment8_e100/97.959_movies" />
+      <recent name="$PROJECT_DIR$/log/TSM_HockeyFights_RGB_mobilenetv2_shift8_blockres_avg_segment8_e100/97.5_hockey" />
+      <recent name="$PROJECT_DIR$/log/TSM_HockeyFights_RGB_mobilenetv2_shift8_blockres_avg_segment8_e100/86.25" />
+      <recent name="$PROJECT_DIR$/MODEL" />
+      <recent name="$PROJECT_DIR$/log/TSM_HockeyFights_RGB_mobilenetv2_shift8_blockres_avg_segment8_e100/88" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\learn\2022.6\shixian\TSM-test\log\TSM_HockeyFights_RGB_mobilenetv2_shift8_blockres_avg_segment8_e100\88" />
+      <recent name="G:\learn\wyds\fanxiu\bushiyan\TSM-test" />
+      <recent name="G:\learn\wyds\fanxiu\bushiyan\TSM-test\test_image" />
+      <recent name="$PROJECT_DIR$/tools" />
+      <recent name="$PROJECT_DIR$/MODEL" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="抽帧" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="temporal-shift-module-master(yuanjian)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/抽帧.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eca_mobilenetv2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="temporal-shift-module-master(yuanjian)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MODEL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MODEL/eca_mobilenetv2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="temporal-shift-module-master(yuanjian)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="temporal-shift-module-master(yuanjian)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pth2pt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="temporal-shift-module-master(yuanjian)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pth2pt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.pth2pt" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.抽帧" />
+        <item itemvalue="Python.eca_mobilenetv2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="应用程序级" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e7679e10-34be-49a8-bf65-681dd906f7bd" name="变更" comment="" />
+      <created>1640912222719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640912222719</updated>
+      <workItem from="1641799997373" duration="4472000" />
+      <workItem from="1643728168777" duration="1007000" />
+      <workItem from="1643731953514" duration="1639000" />
+      <workItem from="1643736240205" duration="53000" />
+      <workItem from="1646033259084" duration="1797000" />
+      <workItem from="1646097371654" duration="2279000" />
+      <workItem from="1649377176279" duration="599000" />
+      <workItem from="1649487846679" duration="26000" />
+      <workItem from="1649558373541" duration="607000" />
+      <workItem from="1649805833672" duration="9232000" />
+      <workItem from="1649815609999" duration="264000" />
+      <workItem from="1649818187352" duration="2176000" />
+      <workItem from="1649820582595" duration="8000" />
+      <workItem from="1649832510406" duration="3930000" />
+      <workItem from="1649895927264" duration="129000" />
+      <workItem from="1649899215578" duration="4609000" />
+      <workItem from="1649919605534" duration="518000" />
+      <workItem from="1649940546940" duration="264000" />
+      <workItem from="1649981546272" duration="244000" />
+      <workItem from="1650019232375" duration="92000" />
+      <workItem from="1650031909141" duration="6045000" />
+      <workItem from="1650037987124" duration="179000" />
+      <workItem from="1650071966805" duration="712000" />
+      <workItem from="1650075065877" duration="1394000" />
+      <workItem from="1650076955879" duration="616000" />
+      <workItem from="1650111409990" duration="693000" />
+      <workItem from="1650424158929" duration="1043000" />
+      <workItem from="1650453019791" duration="340000" />
+      <workItem from="1650507795961" duration="3771000" />
+      <workItem from="1650524038810" duration="840000" />
+      <workItem from="1650782467965" duration="715000" />
+      <workItem from="1650783371657" duration="34000" />
+      <workItem from="1650851403039" duration="672000" />
+      <workItem from="1650957121863" duration="5000" />
+      <workItem from="1650958037036" duration="541000" />
+      <workItem from="1651130187814" duration="6000" />
+      <workItem from="1651220467593" duration="332000" />
+      <workItem from="1651224818628" duration="631000" />
+      <workItem from="1651798504018" duration="201000" />
+      <workItem from="1651798818442" duration="4454000" />
+      <workItem from="1651803324946" duration="3000" />
+      <workItem from="1651803391797" duration="2193000" />
+      <workItem from="1651806035684" duration="1837000" />
+      <workItem from="1651821329378" duration="3364000" />
+      <workItem from="1652080608579" duration="64000" />
+      <workItem from="1652081488218" duration="6629000" />
+      <workItem from="1652149615201" duration="1010000" />
+      <workItem from="1652185875567" duration="168000" />
+      <workItem from="1652237125047" duration="1350000" />
+      <workItem from="1652262024588" duration="2739000" />
+      <workItem from="1652403447367" duration="1368000" />
+      <workItem from="1652707749359" duration="462000" />
+      <workItem from="1652708352089" duration="383000" />
+      <workItem from="1652710115038" duration="3925000" />
+      <workItem from="1652714075551" duration="267000" />
+      <workItem from="1652772221253" duration="16249000" />
+      <workItem from="1653539432797" duration="2009000" />
+      <workItem from="1653651099743" duration="1243000" />
+      <workItem from="1653729596253" duration="11000" />
+      <workItem from="1654131864226" duration="917000" />
+      <workItem from="1654135123310" duration="2538000" />
+      <workItem from="1654139779860" duration="13193000" />
+      <workItem from="1654173112477" duration="2000" />
+      <workItem from="1654173120636" duration="2747000" />
+      <workItem from="1655435295575" duration="202000" />
+      <workItem from="1655467483890" duration="999000" />
+      <workItem from="1655711149993" duration="2051000" />
+      <workItem from="1655798263467" duration="599000" />
+      <workItem from="1656378823212" duration="5766000" />
+      <workItem from="1656415494606" duration="1901000" />
+      <workItem from="1656486655127" duration="202000" />
+      <workItem from="1660012102663" duration="22000" />
+      <workItem from="1661773274303" duration="27000" />
+      <workItem from="1662538010598" duration="1989000" />
+      <workItem from="1662559823380" duration="323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1661773301012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="218" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1661773301012" />
+    <state width="1867" height="396" key="GridCell.Tab.0.bottom" timestamp="1656486861230">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="396" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1656486861230" />
+    <state width="1867" height="396" key="GridCell.Tab.0.center" timestamp="1656486861230">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="396" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1656486861230" />
+    <state width="1867" height="396" key="GridCell.Tab.0.left" timestamp="1656486861230">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="396" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1656486861230" />
+    <state width="1867" height="396" key="GridCell.Tab.0.right" timestamp="1656486861230">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="396" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1656486861230" />
+    <state x="231" y="0" key="SettingsEditor" timestamp="1662553957125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="231" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1662553957125" />
+    <state x="345" y="78" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1654178372517" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/anaconda/envs/vr-plan3/Lib/site-packages/torch/nn/modules/module.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MODEL/eca_resnet.py</url>
+          <line>203</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TSM_test$main.coverage" NAME="main Coverage Results" MODIFIED="1656486831425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TSM_test$pth2pt.coverage" NAME="pth2pt Coverage Results" MODIFIED="1654173152683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TSM_test$predict.coverage" NAME="predict Coverage Results" MODIFIED="1654141191301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

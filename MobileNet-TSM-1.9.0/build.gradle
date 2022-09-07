@@ -1,0 +1,25 @@
+buildscript {
+    repositories {
+        google()
+        jcenter()
+        
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.0'
+//        classpath 'com.android.tools.build:gradle:4.1'
+    }
+}
+
+allprojects {
+    repositories {
+        //maven{ url 'http://maven.oschina.net/content/groups/public/'}
+        //maven { url 'https://maven.aliyun.com/repository/public/' }
+        google()
+        jcenter()
+        
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
