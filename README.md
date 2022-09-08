@@ -5,6 +5,7 @@ This storehouse will provide all the codes using in Lightweight mobile network f
 
 #### Software Architecture
 This code is based on the TSM codebase, https://hanlab.mit.edu/projects/tsm/
+Android part is based on the PyTorch Android API, https://github.com/pytorch/android-demo-app/tree/master/HelloWorldApp
 
 #### Installation
 
@@ -14,6 +15,8 @@ PyTorch 1.9.0
 TensorboardX
 tqdm
 scikit-learn
+
+For more guide， you can find them in original README.
 
 
 #### Instructions
